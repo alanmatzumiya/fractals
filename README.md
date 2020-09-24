@@ -6,7 +6,7 @@ A collection of various Javascript-based projects.
 
 Displaying a Peter de Jong attractor with p5.js and p5.gui.js.
 
-Click [here](https://alanmatzumiya.github.ioo/fractals/StrangeAttractor/) to view the interactive demo. 
+Click [here](https://alanmatzumiya.github.io/fractals/StrangeAttractor/) to view the interactive demo. 
 
 ## Escape Fractals
 
